@@ -2,4 +2,4 @@ Esta es la historia de Verni Brenes
 
 Verni Brenes tiene 25 años y nació  en Costa Rica
 
-Mañana nos enfocaremos en su vida laboral.
+Mañana nos enfocaremos en su vida laboral, pero hoy vamos a practicar git.
