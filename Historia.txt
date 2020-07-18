@@ -1,5 +1,7 @@
-Esta es la historia de Verni Brenes
+Esta es la historia de Freddy Vega
 
-Verni Brenes tiene 25 años y nació  en Costa Rica
+Freddy Vega tiene 32 años y nació en Colombia
 
-Mañana nos enfocaremos en su vida laboral, pero hoy vamos a practicar git.
+Anita Platzi tiene 41 años y nació en Internet
+
+Mañana nos enfocaremos en su vida laboral
